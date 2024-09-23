@@ -10,4 +10,4 @@ Sure, computers are handy and fast for math. Let's move on. Want to see your nam
 
 First type your first name in quotes like this:
 
-    "Jimmy"
+    "Akshaya"

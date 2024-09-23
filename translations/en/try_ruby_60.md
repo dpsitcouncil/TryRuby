@@ -11,6 +11,6 @@ laundry line and the quotes are clothespins holding the ends. The quotes mark th
 
 To reverse your name, type: 
 
-    "Jimmy".reverse
+    "Akshaya".reverse
 
 (Don't forget the dot!)

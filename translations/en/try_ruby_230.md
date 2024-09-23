@@ -8,6 +8,9 @@ ok:     You've made an empty hash!
 error:
 ---
 
+
+<div class="foxes">Look how quickly we're moving forward!'</div>
+
 ### Exclamations
 Methods may have exclamations (and also question marks) in their name.
 These are just there to better explain what their function is. No big deal.

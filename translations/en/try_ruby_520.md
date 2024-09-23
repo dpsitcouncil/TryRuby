@@ -25,3 +25,6 @@ Accessors are variables attached to an object which can be used __outside__ the 
 ### Object variables
 Object variables are the same variables you're using for accessors, but __inside__ the object.
 (@time = Time.now)
+
+
+<div class="foxes">Home stretch!</div>

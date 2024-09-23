@@ -10,4 +10,4 @@ You have used the reverse __method__ on your name! By enclosing your name in quo
 
 Now, let us see how many letters are in your name:
 
-    "Jimmy".length
+    "Akshaya".length

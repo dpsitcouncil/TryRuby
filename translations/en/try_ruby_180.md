@@ -8,7 +8,7 @@ ok:     Does it rhyme?
 error:
 ---
 
-Now, look how your second minute went:
+Now, look what more you've learnt:
 
 ### Errors
 If you try to reverse a number or do anything fishy, Ruby will tell you so.
@@ -29,3 +29,5 @@ Let's change directions for a moment. I've stuffed a bit of poetry for you in a 
 Take a look. Type:
 
     puts poem
+
+<div class="foxes">Having fun?</div>

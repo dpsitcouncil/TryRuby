@@ -31,3 +31,6 @@ to uncover classes. For two more short lessons and you're done.
 Earlier, we created a hash like this:
 
     Hash.new
+
+
+<div class="foxes">Having fun?</div>

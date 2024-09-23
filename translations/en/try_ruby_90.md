@@ -7,7 +7,9 @@ ok:     Nope, it is not possible to reverse a number. Click 'next'
 error:  
 ---
 
-Let's look at what you've learned in the first minute.
+<div class="foxes">Have doubts? <strong>Raise your hand!</strong></div>
+
+Let's look at what you've learnt so far.
 
 ### The editor
 Typing code into the editor and clicking on run gives you an answer in the output window.

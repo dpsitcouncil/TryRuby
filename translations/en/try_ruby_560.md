@@ -1,9 +1,9 @@
 ---
 lang:   EN
 title:  Summary #8, The Hey-Relax-You-Did-Good Summary
-answer:
+answer: Go to www.ruby-lang.org to download Ruby
 class:  stretcher chapmark
-ok:     
+ok:     Hey! We did it!
 error:  
 load:   def ruby(f);puts "Go to www.ruby-lang.org to download Ruby";end;class K;attr_reader :rb;end;my_first_program=K.new
 ---
@@ -27,5 +27,4 @@ You really deserve a double-layer cake with double-double frosting and a guy pla
 I mean you finished, you really did! No doubt about it, you're a __certified red-blooded smartiac!__
 
 ## More info
-There are a couple of articles on this website. They can give you some pointers on where to
-go from here.
+Open the playground and run your own code!

@@ -7,11 +7,11 @@ ok:
 error:
 ---
 
-Well done, well done, well done, well done!
+<div class="foxes">Well done, well done, well done, well done!</div>
 
 Truly, truly, truly, truly, truuuuuuuuly!
 
-Here's the last few minutes of your life in review:
+Here's everything you learnt in review:
 
 ### Methods
 Methods can be defined with __def__ and have a name. Methods make your program shorter

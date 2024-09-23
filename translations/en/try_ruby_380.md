@@ -16,7 +16,7 @@ this link will give you all current <a href="http://news.google.com/news/section
 about Ruby.
 
 Your web browser will probably display it quite nicely for you. If you look at the source
-(type: control-U) you will see a long string of strangely formatted text. In the Google example
+(type: ⌃U or ⌘⌥U) you will see a long string of strangely formatted text. In the Google example
 it is in the __rss__ format.
 
 ### Formats

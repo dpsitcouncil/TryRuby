@@ -14,4 +14,4 @@ See, some programs use that simple __.length__ code.
 
 Watch this. Let's multiply your name by 5. 
 
-    "Jimmy" * 5
+    "Akshaya" * 5

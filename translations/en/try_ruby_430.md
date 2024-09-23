@@ -3,7 +3,7 @@ lang:   EN
 title:  And Now For the Startling Conclusion
 answer: is not equal to 100$
 ok:     That's better
-error:  This can't be right
+error:  Huh? This can't be right.
 ---
 
 Did you see the 2 equal signs in __'abc' == 'def'__?

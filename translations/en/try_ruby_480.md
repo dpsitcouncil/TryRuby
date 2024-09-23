@@ -7,7 +7,7 @@ error:
 load:   class Blurb;attr_accessor :content,:time,:mood;end
 ---
 
-Hey, good class, man. You've got a new Blurb<sup>TM</sup> class.
+Hey, good class, girl. You've got a new Blurb<sup>TM</sup> class.
 
 In the class definition, you used a method called attr\_accessor.
 There are many __attr__ibute methods like this which add little settings to classes.

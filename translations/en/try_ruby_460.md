@@ -19,10 +19,12 @@ these messages Blurbs<sup>TM</sup>. A Blurb<sup>TM</sup> has a maximum length of
 <!---The Internet has really brought back stick people and smileys out of bankruptcy. __Emote!__-->
 
 ### Where to start
-Well, you might store your Blurbs<sup>TM</sup> entries in a json file, right?
+Well, you might store your Blurbs<sup>TM</sup> entries in a json\* file, right?
 But how would you keep track of the content of the entry and the time it was posted?
 And when you loaded the file, how would it look in Ruby?
 Would it be a Hash? Or an Array? Or an Array of Arrays? Or something else?
+
+> \*not sure what a json file is? well it's a file type to essentially store hashes. json = JavaScript Object Notation
 
 ### Class
 I really think you'll want to use a class. You are already familiar with many classes:
