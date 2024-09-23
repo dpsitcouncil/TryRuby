@@ -21,7 +21,7 @@ To rate a book, put the title in square brackets and put the rating after the eq
 
     books["Gravitys Rainbow"] = :splendid
 
-> By now I think it is only fair to tell you that all lessons in TryRuby are separate from each other.
+> By now I think it is only fair to tell you that all lessons on this page are separate from each other.
 > So if you go crazy typing book reviews here, you can only use 'em in this lesson.  
 > If you want to use your reviews in the next lesson you should copy/paste them.  
 > Don't worry about this too much, each lesson has plenty of predefined stuff for you to play around with.

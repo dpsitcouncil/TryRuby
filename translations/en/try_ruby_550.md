@@ -12,7 +12,7 @@ together into new things.
 Here we've got an app made of a class containing another class. And, actually, Ruby really does good
 with this kind of creature. It is called object oriented programming.
 
-We have arrived at the __last programming excercise__ of TryRuby. If you want, you can add some
+We have arrived at the __last programming excercise__ of GirlCode. If you want, you can add some
 more features to Blurbalizer<sup>TM</sup>.
 
 Maybe you want to print the mood as a smiley in the __show_timeline__ method. You could add

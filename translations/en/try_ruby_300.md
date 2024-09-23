@@ -20,4 +20,4 @@ Let's try that with this block:
 
 Here, method __.times__ sends a value to variable __|time|__. But note that variable time is only known within the block.
 
-> Did you notice that you can split code over multiple lines. This makes it a bit easier to read.
+> Did you notice that you can split code over multiple lines? This makes it a bit easier to read.
