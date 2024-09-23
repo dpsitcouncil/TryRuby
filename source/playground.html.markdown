@@ -4,23 +4,15 @@ description: Play around with Ruby programs
 ---
 
 <div class="row">
-  <div class="col-md-6">
     <h2 id="tryruby-title">Playground</h2>
-    <div id="tryruby-content">
-      <div class="playground-iframe-wrapper">
-        <iframe
-          src="https://docs.ruby-lang.org/en/master/"
-        >Ruby Documentation</iframe>
-      </div>
-
-      <p>
+    <div id="tryruby-content"><p>
         In the Playground you can try any Ruby code you like.<br />
-        The
-        <a href="https://docs.ruby-lang.org/en/master/" target="_blank">Official Ruby documentation</a>
-        is included.
+        See the
+        <a href="https://docs.ruby-lang.org/en/master/" target="_blank">Official Ruby documentation ></a>
       </p>
     </div>
-  </div>
+ </div>
+ <div class="row">
 
   <div class="col-md-6">
     <h2 class="code-title">Editor</h2>
@@ -35,7 +27,6 @@ description: Play around with Ruby programs
       >
         Copy URL
       </button>
-
       <select
         id="tryruby-engine"
         class="form-select mx-3 w-50"
@@ -53,6 +44,10 @@ description: Play around with Ruby programs
       </button>
     </div>
 
+  </div>
+
+
+  <div class="col-md-6">
     <h2 class="code-title">Output</h2>
     <div id="output" class="tryruby-code tryruby-code--output"></div>
   </div>
