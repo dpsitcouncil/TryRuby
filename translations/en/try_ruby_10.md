@@ -7,7 +7,7 @@ ok:
 error:
 ---
 
-GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming and equip young women with essential coding and tech skills for a future in STEM.
+GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming to equip young women with essential coding and tech skills for a future in STEM.
 
 Ruby is a programming language from Japan which is revolutionizing software development.
 

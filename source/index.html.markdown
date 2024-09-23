@@ -1,6 +1,6 @@
 ---
 title: "GirlCode | DiPS IT Council"
-description: GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming and equip young women with essential coding and tech skills for a future in STEM.
+description: GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming to equip young women with essential coding and tech skills for a future in STEM.
 ---
 
 <div class="row">
@@ -10,7 +10,7 @@ description: GirlCode is an initiative by the IT Council at DPS Bangalore South,
     </h1>
 
     <div id="tryruby-content">
-	 <p>GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming and equip young women with essential coding and tech skills for a future in STEM.</p>
+	 <p>GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming to equip young women with essential coding and tech skills for a future in STEM.</p>
       <p>Ruby is a programming language from Japan which is revolutionizing software development.</p>
       <p>The beauty of Ruby is found in its balance between simplicity and power.</p>
       <p>You can type some Ruby code in the editor and use these buttons to navigate:</p>
