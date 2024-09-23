@@ -49,7 +49,7 @@ GEM
       concurrent-ruby (~> 1.1)
       webrick (~> 1.7)
       websocket-driver (>= 0.6, < 0.8)
-    ffi (1.15.5)
+    ffi (1.17.0)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
