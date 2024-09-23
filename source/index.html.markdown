@@ -1,6 +1,6 @@
 ---
 title: "GirlCode | DiPS IT Council"
-description: Learn to program in Ruby in 30 minutes
+description: GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming and equip young women with essential coding and tech skills for a future in STEM.
 ---
 
 <div class="row">
