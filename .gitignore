@@ -1,5 +1,5 @@
-build/*
-_site/*
+build
+_site
 .bundle
 .idea
 .ruby-version
