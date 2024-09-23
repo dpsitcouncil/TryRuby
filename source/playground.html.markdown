@@ -1,5 +1,5 @@
 ---
-title: "TryRuby playground"
+title: "GirlCode | DiPS IT Council"
 description: Play around with Ruby programs
 ---
 

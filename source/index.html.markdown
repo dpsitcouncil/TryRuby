@@ -1,5 +1,5 @@
 ---
-title: "TryRuby: Learn programming with Ruby"
+title: "GirlCode | DiPS IT Council"
 description: Learn to program in Ruby in 30 minutes
 ---
 
