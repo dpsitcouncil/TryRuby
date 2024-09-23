@@ -1,3 +1,9 @@
+# TryRuby for GirlCode 2024
+
+This fork contains a modified version of TryRuby for use in DiPS IT Council's GirlCode 2024.
+
+---
+
 # TryRuby R4
 
 This repo holds the source of the TryRuby website. TryRuby is a website
