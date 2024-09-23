@@ -16,4 +16,4 @@ For example, try typing some math. Like:
 The output of your program should show itself in the output window.
 There should also be a line that tells you how well you did.
 
-> Alternatively you can hit the __Copy__ button to copy the example code to the editor.
+> Alternatively you can hit the __Copy Sample__ button to copy the example code to the editor.

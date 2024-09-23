@@ -37,7 +37,7 @@ description: Learn to program in Ruby in 30 minutes
         class="btn btn-secondary"
         aria-controls="editor"
       >
-        Copy
+        Copy Sample
       </button>
 
       <button
