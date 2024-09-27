@@ -6,8 +6,7 @@ ok:     dooG
 error:  
 ---
 
-A string is a set of characters the computer can process. Imagine the letters are on a string of
-laundry line and the quotes are clothespins holding the ends. The quotes mark the beginning and end.
+A string is a set of characters the computer can process. Imagine the letters are on a string of laundry line and the quotes are clothespins holding the ends. The quotes mark the beginning and end.
 
 To reverse your name, type: 
 

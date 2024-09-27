@@ -11,12 +11,9 @@ of a certain class. Think "class" as in "working class" &mdash; a specific group
 are similar, have the same jobs, the same shirts.
 What use is a class?
 
-### Blurbalizer<sup>TM</sup>
+### Problem statement: Blurbalizer<sup>TM</sup>
 You just had a brilliant idea for a new app. It is going to be __the__ next instant
-messaging platform. You want an app where people can send each other short messages. You call
-these messages Blurbs<sup>TM</sup>. A Blurb<sup>TM</sup> has a maximum length of just 40 characters. Let's do a mood setting too.
-
-<!---The Internet has really brought back stick people and smileys out of bankruptcy. __Emote!__-->
+messaging platform. You want an app where people can send each other short messages. You call these messages Blurbs<sup>TM</sup>. A Blurb<sup>TM</sup> has a maximum length of just 40 characters. Let's do a mood setting too.
 
 ### Where to start
 Well, you might store your Blurbs<sup>TM</sup> entries in a json\* file, right?

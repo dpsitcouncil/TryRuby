@@ -7,11 +7,6 @@ error:
 load:   prev
 ---
 
-Some beautiful things can be done with the simple parts of Ruby, especially when you combine them
-together into new things.
-Here we've got an app made of a class containing another class. And, actually, Ruby really does good
-with this kind of creature. It is called object oriented programming.
-
 We have arrived at the __last programming excercise__ of GirlCode. If you want, you can add some
 more features to Blurbalizer<sup>TM</sup>.
 

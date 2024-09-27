@@ -23,8 +23,7 @@ You've used English-language methods like reverse and length. And symbolic metho
 multiplication method: \*  
 __Methods mean action!__
 
-This is the essence of your learning. Taking simple things, toying with them and turning them into
-new things. Feeling comfortable yet? I promise you are.
+This is the essence of your learning. Taking simple things, toying with them and turning them into new things. Feeling comfortable yet? I promise you are.
 
 ## Okay,
 let's do something uncomfortable. Try reversing a number:

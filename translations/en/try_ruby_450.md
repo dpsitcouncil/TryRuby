@@ -7,8 +7,7 @@ ok:     Ok, that's an empty hash
 error:
 ---
 
-You're a level six Ruby cleric. I mean what a great job you've done. Let's review:
-
+Let's review:
 
 ### Data
 You loaded some data off the internet, traversed a data structure and selected values.

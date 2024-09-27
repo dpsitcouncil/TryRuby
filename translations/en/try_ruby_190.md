@@ -7,8 +7,7 @@ ok:     Excellent
 error:  Still smells like toast to me
 ---
 
-Look, it's okay. You don't have to like it. Hack it up, be my guest. Instead of toast, go for a
-melon or something. Try this to see the new poem:
+Don't like toast? Try this to see the new poem:
 
     poem.gsub("toast", "honeydew")
 

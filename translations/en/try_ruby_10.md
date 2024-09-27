@@ -9,11 +9,7 @@ error:
 
 GirlCode is an initiative by the IT Council at DPS Bangalore South, aiming to equip young women with essential coding and tech skills for a future in STEM.
 
-Ruby is a programming language from Japan which is revolutionizing software development.
-
-The beauty of Ruby is found in its balance between simplicity and power.
-
-You can type some Ruby code in the editor and use these buttons to navigate:
+Ruby is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write. You can type some Ruby code in the editor and use these buttons to navigate:
 	 
 
 - __Run__ &rarr; Executes the code in the editor

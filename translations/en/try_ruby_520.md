@@ -8,8 +8,7 @@ error:
 load:   prev;blurb2=Blurb.new :confused, "I can not believe Mt. Hood was stolen!"
 ---
 
-Aha, you're here. And all in one piece. We're still going to make your app real,
-but until then, let's review, okay?
+Let's review.
 
 ### Classes
 Everything in Ruby is some kind of object. Classes explain objects, how a certain object works.

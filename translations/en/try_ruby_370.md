@@ -9,8 +9,6 @@ error:
 
 <div class="foxes">Well done, well done, well done, well done!</div>
 
-Truly, truly, truly, truly, truuuuuuuuly!
-
 Here's everything you learnt in review:
 
 ### Methods
@@ -24,4 +22,4 @@ Methods can have parameters.
 Methods (almost) always return a value.
 
 ## Now
-To (be) or not to (be) is not a question to you anymore. Are you ready for some more Shakespeare?
+

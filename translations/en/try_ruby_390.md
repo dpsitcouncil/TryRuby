@@ -7,13 +7,6 @@ error:
 load:   prev
 ---
 
-Okay we now have a list of plays from the internet. The list was in the json format.
-Fortunately for us Ruby kindly provides a method to convert json data to a Ruby hash.
-The _get\_shakey_ method already did that for us.
-
-But since the structure of the json data is retained in the hash, it is still a bit difficult to read.
-Let us write a method to display the plays nicely.
-
 If you inspect the list of plays carefully you will see that it has a kind of nested
 structure. (This is actually quite common in data you get from the internet.)
 Looks like this:

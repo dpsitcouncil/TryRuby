@@ -31,4 +31,4 @@ And not [1], [2] and [3]? Is that some kind of Japanese Zen thing?
 No, we computer people just like to begin counting from zero. It's not just a Ruby thing,
 this _zero based indexing_ is used in most programming languages.
 
-> A little reminder: you can use the __Copy__ button to copy the example code to the editor.
+> A little reminder: you can use the __Copy Sample__ button to copy the example code to the editor.
